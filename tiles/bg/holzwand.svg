@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <!-- Holzvertaefelung fuer die Raeume des Gesindes. Von Hand, nicht aus make-placeholders.mjs. Die Konturdarstellung
+       schneidet die Mitte heraus und kachelt sie gespiegelt - Muster sind daher
+       symmetrisch angelegt. -->
+  <rect width="96" height="83.14" fill="#6b4a33"/>
+  <rect x="0" y="0" width="96" height="2" fill="#4e3423"/>
+  <rect x="0" y="0" width="2" height="14" fill="#4e3423"/>
+  <rect x="48" y="0" width="2" height="14" fill="#4e3423"/>
+  <rect x="96" y="0" width="2" height="14" fill="#4e3423"/>
+  <rect x="0" y="5" width="96" height="1" fill="#7d5a40" opacity=".6"/>
+  <rect x="0" y="14" width="96" height="2" fill="#4e3423"/>
+  <rect x="24" y="14" width="2" height="14" fill="#4e3423"/>
+  <rect x="72" y="14" width="2" height="14" fill="#4e3423"/>
+  <rect x="0" y="19" width="96" height="1" fill="#7d5a40" opacity=".6"/>
+  <rect x="0" y="28" width="96" height="2" fill="#4e3423"/>
+  <rect x="0" y="28" width="2" height="14" fill="#4e3423"/>
+  <rect x="48" y="28" width="2" height="14" fill="#4e3423"/>
+  <rect x="96" y="28" width="2" height="14" fill="#4e3423"/>
+  <rect x="0" y="33" width="96" height="1" fill="#7d5a40" opacity=".6"/>
+  <rect x="0" y="42" width="96" height="2" fill="#4e3423"/>
+  <rect x="24" y="42" width="2" height="14" fill="#4e3423"/>
+  <rect x="72" y="42" width="2" height="14" fill="#4e3423"/>
+  <rect x="0" y="47" width="96" height="1" fill="#7d5a40" opacity=".6"/>
+  <rect x="0" y="56" width="96" height="2" fill="#4e3423"/>
+  <rect x="0" y="56" width="2" height="14" fill="#4e3423"/>
+  <rect x="48" y="56" width="2" height="14" fill="#4e3423"/>
+  <rect x="96" y="56" width="2" height="14" fill="#4e3423"/>
+  <rect x="0" y="61" width="96" height="1" fill="#7d5a40" opacity=".6"/>
+  <rect x="0" y="70" width="96" height="2" fill="#4e3423"/>
+  <rect x="24" y="70" width="2" height="14" fill="#4e3423"/>
+  <rect x="72" y="70" width="2" height="14" fill="#4e3423"/>
+  <rect x="0" y="75" width="96" height="1" fill="#7d5a40" opacity=".6"/>
+</svg>

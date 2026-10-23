@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <!-- Buero der Oberhofmeisterin: grau-gruen, streng gestreift (Jean, 11.10.2026: je Zimmer eine eigene Tapete, damit man die
+       Raeume auseinanderhaelt). Von Hand, Platzhalter - die echte Grafik
+       zeichnet Jean. Das Spiel nimmt nur die Mitte (x 24..72, y 9..74) und
+       kachelt sie gespiegelt (terrain.js, texturAus) - alles Wichtige liegt
+       dort, Linien an den Raendern spiegeln sich nahtlos. -->
+  <rect width="96" height="83.14" fill="#5d6e63"/>
+  <g fill="#4b5a50"><rect x="24" y="0" width="10" height="83.14"/><rect x="62" y="0" width="10" height="83.14"/></g>
+  <rect x="47.5" y="0" width="1" height="83.14" fill="#7f9184"/>
+</svg>

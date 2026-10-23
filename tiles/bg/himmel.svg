@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <defs>
+    <linearGradient id="v_himmel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a3f68"/>
+      <stop offset="1" stop-color="#2e2742"/>
+    </linearGradient>
+    <clipPath id="c_himmel"><polygon points="96.00,41.57 72.00,83.14 24.00,83.14 0.00,41.57 24.00,0.00 72.00,0.00"/></clipPath>
+  </defs>
+  <g clip-path="url(#c_himmel)" opacity="1">
+    <rect width="96" height="83.14" fill="url(#v_himmel)"/>
+    <circle cx="71.9" cy="41.4" r="13.9" fill="#574a77" fill-opacity="0.3"/><circle cx="56.1" cy="45.1" r="7.6" fill="#574a77" fill-opacity="0.3"/><circle cx="28.5" cy="78.1" r="8.0" fill="#574a77" fill-opacity="0.3"/><circle cx="48.2" cy="72.4" r="9.7" fill="#574a77" fill-opacity="0.3"/><circle cx="8.8" cy="54.3" r="9.1" fill="#574a77" fill-opacity="0.3"/><circle cx="89.9" cy="34.3" r="7.6" fill="#574a77" fill-opacity="0.3"/><circle cx="29.6" cy="6.2" r="15.0" fill="#574a77" fill-opacity="0.3"/>
+  </g>
+</svg>

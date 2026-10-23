@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <defs>
+    <linearGradient id="v_fenster" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9cc3e0"/>
+      <stop offset="1" stop-color="#6f97b8"/>
+    </linearGradient>
+    <clipPath id="c_fenster"><polygon points="96.00,41.57 72.00,83.14 24.00,83.14 0.00,41.57 24.00,0.00 72.00,0.00"/></clipPath>
+  </defs>
+  <g clip-path="url(#c_fenster)" opacity="0.75">
+    <rect width="96" height="83.14" fill="url(#v_fenster)"/>
+    <circle cx="75.0" cy="53.9" r="5.5" fill="#d6ecf8" fill-opacity="0.3"/><circle cx="49.2" cy="12.5" r="12.1" fill="#d6ecf8" fill-opacity="0.3"/><circle cx="5.5" cy="49.2" r="5.9" fill="#d6ecf8" fill-opacity="0.3"/><circle cx="76.5" cy="63.1" r="9.2" fill="#d6ecf8" fill-opacity="0.3"/><circle cx="57.3" cy="41.4" r="10.5" fill="#d6ecf8" fill-opacity="0.3"/><circle cx="64.2" cy="62.0" r="10.0" fill="#d6ecf8" fill-opacity="0.3"/><circle cx="52.4" cy="10.1" r="10.8" fill="#d6ecf8" fill-opacity="0.3"/>
+  </g>
+</svg>

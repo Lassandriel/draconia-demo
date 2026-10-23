@@ -1,0 +1,8 @@
+Hier kommt die Spielfigur hin.
+
+Dateiname: zeph.png  (auch .webp oder .svg)
+Groesse:   etwa 160 x 120 px, transparenter Hintergrund
+Blick:     nach RECHTS zeichnen - das Spiegeln macht die Engine
+
+Sobald die Datei hier liegt, ersetzt sie beim naechsten Neuladen
+den gezeichneten Platzhalter. Nichts einzutragen.

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <!-- Zephs Zimmer: Lavendel (Abendhimmel) mit Windwirbeln. Vorher himmelblau
+       #9cc7e4 - Zephs Fluegelhaut (#a8c6e2) verschwand darauf (gemessen dE 3;
+       Jean, 20.10.2026: "vermischt sich zu sehr mit Zephs Fluegelfarbe"), jetzt
+       dE 26. (Jean, 11.10.2026: je Zimmer eine eigene Tapete, damit man die
+       Raeume auseinanderhaelt). Von Hand, Platzhalter - die echte Grafik
+       zeichnet Jean. Das Spiel nimmt nur die Mitte (x 24..72, y 9..74) und
+       kachelt sie gespiegelt (terrain.js, texturAus) - alles Wichtige liegt
+       dort, Linien an den Raendern spiegeln sich nahtlos. -->
+  <rect width="96" height="83.14" fill="#8c7fb5"/>
+  <rect x="44" y="0" width="8" height="83.14" fill="#998dc0"/>
+  <g fill="none" stroke="#efeaf8" stroke-width="1.8" stroke-linecap="round" opacity=".9">
+    <path d="M30 28 C30 22 38 22 38 27 C38 31 33 31 33 28 M38 27 C42 27 46 26 50 24"/>
+    <path d="M66 56 C66 50 58 50 58 55 C58 59 63 59 63 56 M58 55 C54 55 50 54 46 52"/>
+  </g>
+</svg>

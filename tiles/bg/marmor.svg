@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <!-- Marmor fuer Thronsaal und Repraesentatives. Von Hand, nicht aus make-placeholders.mjs. Die Konturdarstellung
+       schneidet die Mitte heraus und kachelt sie gespiegelt - Muster sind daher
+       symmetrisch angelegt. -->
+  <rect width="96" height="83.14" fill="#d6cfc1"/>
+  <path d="M10 0 C 20 20, 40 30, 30 50 S 48 80, 60 83" stroke="#a69e90" stroke-width="1.6" fill="none" opacity=".7"/>
+  <path d="M70 0 C 60 18, 80 34, 72 56 S 86 74, 90 83" stroke="#b3ab9d" stroke-width="1.2" fill="none" opacity=".6"/>
+  <path d="M30 50 C 40 52, 52 46, 62 50" stroke="#a69e90" stroke-width="1" fill="none" opacity=".5"/>
+  <rect x="0" y="40" width="96" height="1.2" fill="#bdb5a7" opacity=".5"/>
+</svg>

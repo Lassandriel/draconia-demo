@@ -1,0 +1,11 @@
+Nahtlose Texturen fuer die Konturdarstellung.
+
+Dateiname: <materialname>.png   z. B. erde.png, fels.png, gras.png
+Groesse:   frei, etwa 192 x 166 px ist ein guter Wert
+Wichtig:   KACHELBAR - linke Kante muss an die rechte passen,
+           obere an die untere. Kein Hex, kein transparenter Rand,
+           einfach ein Stueck Material.
+
+Liegt hier nichts, baut die Engine sich einen Behelf aus dem
+Hex-Tile (Ausschnitt, gespiegelt gekachelt). Das funktioniert,
+zeigt aber sichtbare Wiederholung.

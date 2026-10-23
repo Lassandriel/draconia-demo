@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <!-- Grobe Quader fuer Kerker und alte Keller. Von Hand, nicht aus make-placeholders.mjs. Die Konturdarstellung
+       schneidet die Mitte heraus und kachelt sie gespiegelt - Muster sind daher
+       symmetrisch angelegt. -->
+  <rect width="96" height="83.14" fill="#2a2630"/>
+  <rect x="-11" y="1" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="13" y="1" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="37" y="1" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="61" y="1" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="85" y="1" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="1" y="13" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="25" y="13" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="49" y="13" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="73" y="13" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="97" y="13" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="-11" y="25" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="13" y="25" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="37" y="25" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="61" y="25" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="85" y="25" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="1" y="37" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="25" y="37" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="49" y="37" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="73" y="37" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="97" y="37" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="-11" y="49" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="13" y="49" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="37" y="49" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="61" y="49" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="85" y="49" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="1" y="61" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="25" y="61" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="49" y="61" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="73" y="61" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="97" y="61" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="-11" y="73" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="13" y="73" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="37" y="73" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="61" y="73" width="22" height="10" fill="#3b3642" rx="1"/>
+  <rect x="85" y="73" width="22" height="10" fill="#3b3642" rx="1"/>
+</svg>

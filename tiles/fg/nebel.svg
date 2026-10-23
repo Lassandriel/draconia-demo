@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <defs>
+    <linearGradient id="v_nebel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9c0e0"/>
+      <stop offset="1" stop-color="#9a90bd"/>
+    </linearGradient>
+    <clipPath id="c_nebel"><polygon points="96.00,41.57 72.00,83.14 24.00,83.14 0.00,41.57 24.00,0.00 72.00,0.00"/></clipPath>
+  </defs>
+  <g clip-path="url(#c_nebel)" opacity="0.3">
+    <rect width="96" height="83.14" fill="url(#v_nebel)"/>
+    <circle cx="30.7" cy="38.1" r="7.2" fill="#ded7ee" fill-opacity="0.3"/><circle cx="72.4" cy="1.9" r="14.7" fill="#ded7ee" fill-opacity="0.3"/><circle cx="33.0" cy="69.2" r="10.7" fill="#ded7ee" fill-opacity="0.3"/><circle cx="63.5" cy="54.0" r="14.4" fill="#ded7ee" fill-opacity="0.3"/><circle cx="37.4" cy="6.7" r="9.7" fill="#ded7ee" fill-opacity="0.3"/><circle cx="19.3" cy="12.9" r="11.5" fill="#ded7ee" fill-opacity="0.3"/><circle cx="50.3" cy="24.3" r="8.5" fill="#ded7ee" fill-opacity="0.3"/>
+  </g>
+</svg>

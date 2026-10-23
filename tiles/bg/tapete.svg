@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <!-- Tapete fuer Wohnraeume. Von Hand, nicht aus make-placeholders.mjs. Die Konturdarstellung
+       schneidet die Mitte heraus und kachelt sie gespiegelt - Muster sind daher
+       symmetrisch angelegt. -->
+  <rect width="96" height="83.14" fill="#5b2a35"/>
+  <rect x="-0.75" y="0" width="1.5" height="83.14" fill="#b08a4a" opacity=".55"/>
+  <rect x="11.25" y="0" width="1.5" height="83.14" fill="#b08a4a" opacity=".55"/>
+  <rect x="23.25" y="0" width="1.5" height="83.14" fill="#b08a4a" opacity=".55"/>
+  <rect x="35.25" y="0" width="1.5" height="83.14" fill="#b08a4a" opacity=".55"/>
+  <rect x="47.25" y="0" width="1.5" height="83.14" fill="#b08a4a" opacity=".55"/>
+  <rect x="59.25" y="0" width="1.5" height="83.14" fill="#b08a4a" opacity=".55"/>
+  <rect x="71.25" y="0" width="1.5" height="83.14" fill="#b08a4a" opacity=".55"/>
+  <rect x="83.25" y="0" width="1.5" height="83.14" fill="#b08a4a" opacity=".55"/>
+  <rect x="95.25" y="0" width="1.5" height="83.14" fill="#b08a4a" opacity=".55"/>
+  <path d="M6 3 L8.5 6 L6 9 L3.5 6 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M6 17 L8.5 20 L6 23 L3.5 20 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M6 31 L8.5 34 L6 37 L3.5 34 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M6 45 L8.5 48 L6 51 L3.5 48 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M6 59 L8.5 62 L6 65 L3.5 62 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M6 73 L8.5 76 L6 79 L3.5 76 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M18 3 L20.5 6 L18 9 L15.5 6 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M18 17 L20.5 20 L18 23 L15.5 20 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M18 31 L20.5 34 L18 37 L15.5 34 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M18 45 L20.5 48 L18 51 L15.5 48 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M18 59 L20.5 62 L18 65 L15.5 62 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M18 73 L20.5 76 L18 79 L15.5 76 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M30 3 L32.5 6 L30 9 L27.5 6 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M30 17 L32.5 20 L30 23 L27.5 20 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M30 31 L32.5 34 L30 37 L27.5 34 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M30 45 L32.5 48 L30 51 L27.5 48 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M30 59 L32.5 62 L30 65 L27.5 62 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M30 73 L32.5 76 L30 79 L27.5 76 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M42 3 L44.5 6 L42 9 L39.5 6 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M42 17 L44.5 20 L42 23 L39.5 20 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M42 31 L44.5 34 L42 37 L39.5 34 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M42 45 L44.5 48 L42 51 L39.5 48 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M42 59 L44.5 62 L42 65 L39.5 62 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M42 73 L44.5 76 L42 79 L39.5 76 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M54 3 L56.5 6 L54 9 L51.5 6 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M54 17 L56.5 20 L54 23 L51.5 20 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M54 31 L56.5 34 L54 37 L51.5 34 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M54 45 L56.5 48 L54 51 L51.5 48 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M54 59 L56.5 62 L54 65 L51.5 62 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M54 73 L56.5 76 L54 79 L51.5 76 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M66 3 L68.5 6 L66 9 L63.5 6 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M66 17 L68.5 20 L66 23 L63.5 20 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M66 31 L68.5 34 L66 37 L63.5 34 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M66 45 L68.5 48 L66 51 L63.5 48 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M66 59 L68.5 62 L66 65 L63.5 62 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M66 73 L68.5 76 L66 79 L63.5 76 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M78 3 L80.5 6 L78 9 L75.5 6 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M78 17 L80.5 20 L78 23 L75.5 20 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M78 31 L80.5 34 L78 37 L75.5 34 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M78 45 L80.5 48 L78 51 L75.5 48 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M78 59 L80.5 62 L78 65 L75.5 62 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M78 73 L80.5 76 L78 79 L75.5 76 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M90 3 L92.5 6 L90 9 L87.5 6 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M90 17 L92.5 20 L90 23 L87.5 20 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M90 31 L92.5 34 L90 37 L87.5 34 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M90 45 L92.5 48 L90 51 L87.5 48 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M90 59 L92.5 62 L90 65 L87.5 62 Z" fill="#c9a65a" opacity=".45"/>
+  <path d="M90 73 L92.5 76 L90 79 L87.5 76 Z" fill="#c9a65a" opacity=".45"/>
+</svg>

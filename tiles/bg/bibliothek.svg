@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <!-- Bibliothek: dunkelgruen mit schmalen Goldstreifen (Jean, 11.10.2026: je Zimmer eine eigene Tapete, damit man die
+       Raeume auseinanderhaelt). Von Hand, Platzhalter - die echte Grafik
+       zeichnet Jean. Das Spiel nimmt nur die Mitte (x 24..72, y 9..74) und
+       kachelt sie gespiegelt (terrain.js, texturAus) - alles Wichtige liegt
+       dort, Linien an den Raendern spiegeln sich nahtlos. -->
+  <rect width="96" height="83.14" fill="#24402f"/>
+  <g fill="#c9a65a" opacity=".45"><rect x="35" y="0" width="1" height="83.14"/><rect x="38" y="0" width="1" height="83.14"/><rect x="57" y="0" width="1" height="83.14"/><rect x="60" y="0" width="1" height="83.14"/></g>
+  <path d="M48 36 L51 41.5 L48 47 L45 41.5 Z" fill="#c9a65a" opacity=".5"/>
+</svg>

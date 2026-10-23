@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <!-- Marmorwand: weisser Marmor des Sonnenpalasts, fest - fuer Waende, die wie Saeulen wirken sollen (Lichthof).
+       Goldkante oben aus terrain.js. -->
+  <defs>
+    <linearGradient id="v_marmorwand" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#efe7d6"/>
+      <stop offset="1" stop-color="#ddd1bb"/>
+    </linearGradient>
+    <clipPath id="c_marmorwand"><polygon points="96.00,41.57 72.00,83.14 24.00,83.14 0.00,41.57 24.00,0.00 72.00,0.00"/></clipPath>
+  </defs>
+  <g clip-path="url(#c_marmorwand)">
+    <rect width="96" height="83.14" fill="url(#v_marmorwand)"/>
+    <path d="M0 30 C25 22 40 40 62 28 S90 34 96 26" stroke="#c9bfae" stroke-width="1.5" fill="none" opacity="0.6"/>
+    <path d="M0 60 C20 66 44 52 70 62 S88 58 96 64" stroke="#c9bfae" stroke-width="1.2" fill="none" opacity="0.5"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <defs>
+    <linearGradient id="v_sims" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c9c2b6"/>
+      <stop offset="1" stop-color="#9d968b"/>
+    </linearGradient>
+    <clipPath id="c_sims"><polygon points="96.00,41.57 72.00,83.14 24.00,83.14 0.00,41.57 24.00,0.00 72.00,0.00"/></clipPath>
+  </defs>
+  <g clip-path="url(#c_sims)" opacity="1">
+    <rect width="96" height="83.14" fill="url(#v_sims)"/>
+    <circle cx="76.4" cy="44.5" r="6.9" fill="#ddd6ca" fill-opacity="0.3"/><circle cx="91.0" cy="11.3" r="12.7" fill="#ddd6ca" fill-opacity="0.3"/><circle cx="12.6" cy="64.5" r="12.2" fill="#ddd6ca" fill-opacity="0.3"/><circle cx="22.0" cy="51.0" r="7.8" fill="#ddd6ca" fill-opacity="0.3"/><circle cx="94.3" cy="53.1" r="10.1" fill="#ddd6ca" fill-opacity="0.3"/><circle cx="14.3" cy="55.5" r="5.5" fill="#ddd6ca" fill-opacity="0.3"/><circle cx="65.8" cy="33.2" r="9.6" fill="#ddd6ca" fill-opacity="0.3"/>
+  </g>
+</svg>

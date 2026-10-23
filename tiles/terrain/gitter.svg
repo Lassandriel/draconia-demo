@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <!-- Gitter: Staebe auf durchsichtigem Grund. Von Hand, nicht aus
+       make-placeholders.mjs. Querstreben oben und unten. -->
+  <rect x="4" y="0" width="5" height="83.14" fill="#4b4f59"/><rect x="4" y="0" width="1.5" height="83.14" fill="#8d93a0"/><rect x="16" y="0" width="5" height="83.14" fill="#4b4f59"/><rect x="16" y="0" width="1.5" height="83.14" fill="#8d93a0"/><rect x="28" y="0" width="5" height="83.14" fill="#4b4f59"/><rect x="28" y="0" width="1.5" height="83.14" fill="#8d93a0"/><rect x="40" y="0" width="5" height="83.14" fill="#4b4f59"/><rect x="40" y="0" width="1.5" height="83.14" fill="#8d93a0"/><rect x="52" y="0" width="5" height="83.14" fill="#4b4f59"/><rect x="52" y="0" width="1.5" height="83.14" fill="#8d93a0"/><rect x="64" y="0" width="5" height="83.14" fill="#4b4f59"/><rect x="64" y="0" width="1.5" height="83.14" fill="#8d93a0"/><rect x="76" y="0" width="5" height="83.14" fill="#4b4f59"/><rect x="76" y="0" width="1.5" height="83.14" fill="#8d93a0"/><rect x="88" y="0" width="5" height="83.14" fill="#4b4f59"/><rect x="88" y="0" width="1.5" height="83.14" fill="#8d93a0"/>
+  <rect x="0" y="18" width="96" height="4" fill="#4b4f59"/>
+  <rect x="0" y="61" width="96" height="4" fill="#4b4f59"/>
+</svg>

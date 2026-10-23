@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <defs>
+    <linearGradient id="v_stein" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a8a196"/>
+      <stop offset="1" stop-color="#7d776d"/>
+    </linearGradient>
+    <clipPath id="c_stein"><polygon points="96.00,41.57 72.00,83.14 24.00,83.14 0.00,41.57 24.00,0.00 72.00,0.00"/></clipPath>
+  </defs>
+  <g clip-path="url(#c_stein)" opacity="1">
+    <rect width="96" height="83.14" fill="url(#v_stein)"/>
+    <circle cx="40.0" cy="0.1" r="6.2" fill="#bcb5aa" fill-opacity="0.3"/><circle cx="6.6" cy="69.7" r="12.2" fill="#bcb5aa" fill-opacity="0.3"/><circle cx="90.9" cy="18.2" r="13.7" fill="#bcb5aa" fill-opacity="0.3"/><circle cx="72.6" cy="70.1" r="9.6" fill="#bcb5aa" fill-opacity="0.3"/><circle cx="14.2" cy="45.6" r="14.6" fill="#bcb5aa" fill-opacity="0.3"/><circle cx="2.3" cy="3.6" r="14.3" fill="#bcb5aa" fill-opacity="0.3"/><circle cx="65.8" cy="12.4" r="15.6" fill="#bcb5aa" fill-opacity="0.3"/>
+  </g>
+</svg>
