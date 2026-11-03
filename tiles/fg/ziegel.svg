@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <!-- Placeholder (Claude, 29.10.2026) for the hull of houses: roof tiles. Jean replaces it. Rows are symmetric because the contour rendering tiles the middle mirrored. -->
+  <rect width="96" height="83.14" fill="#a5523d"/>
+  <g fill="#7d3a2b" opacity=".55">
+    <rect x="0" y="10" width="96" height="2"/><rect x="0" y="30" width="96" height="2"/>
+    <rect x="0" y="50" width="96" height="2"/><rect x="0" y="70" width="96" height="2"/>
+    <rect x="24" y="12" width="2" height="18"/><rect x="70" y="12" width="2" height="18"/>
+    <rect x="47" y="32" width="2" height="18"/>
+    <rect x="24" y="52" width="2" height="18"/><rect x="70" y="52" width="2" height="18"/>
+  </g>
+</svg>
