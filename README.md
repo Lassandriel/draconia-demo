@@ -8,8 +8,8 @@ You are Prince Zeph, the fastest flier in Luxana. Fly freely
 through the sun palace, slip past guards and servants, put out lights to stay
 unseen, and talk to the residents to take on their tasks.
 
-> **Language:** The game is currently only available in **German**. An English
-> version may follow later.
+> **Language:** German and English. Choose it in the main menu or the pause
+> menu ("Sprache / Language").
 
 > **Graphics:** Everything you see is a placeholder. The final art will be
 > drawn by hand.
