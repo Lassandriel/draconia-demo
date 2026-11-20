@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="83" viewBox="0 0 96 83.14">
+  <defs>
+    <linearGradient id="v_see" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f4a55"/>
+      <stop offset="1" stop-color="#1d3038"/>
+    </linearGradient>
+    <clipPath id="c_see"><polygon points="96.00,41.57 72.00,83.14 24.00,83.14 0.00,41.57 24.00,0.00 72.00,0.00"/></clipPath>
+  </defs>
+  <g clip-path="url(#c_see)" opacity="1">
+    <rect width="96" height="83.14" fill="url(#v_see)"/>
+    <circle cx="65.4" cy="17.0" r="14.7" fill="#3a5862" fill-opacity="0.3"/><circle cx="7.7" cy="70.4" r="12.4" fill="#3a5862" fill-opacity="0.3"/><circle cx="63.5" cy="30.8" r="9.1" fill="#3a5862" fill-opacity="0.3"/><circle cx="33.2" cy="74.1" r="5.3" fill="#3a5862" fill-opacity="0.3"/><circle cx="41.4" cy="39.1" r="5.7" fill="#3a5862" fill-opacity="0.3"/><circle cx="43.9" cy="79.3" r="14.2" fill="#3a5862" fill-opacity="0.3"/><circle cx="50.8" cy="33.5" r="10.5" fill="#3a5862" fill-opacity="0.3"/>
+  </g>
+</svg>
